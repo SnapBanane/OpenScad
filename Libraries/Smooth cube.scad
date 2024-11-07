@@ -1,6 +1,6 @@
 /*******************************************************************
 *
-** written by Julius Gerhardus
+** written by ...
 *
 ** aka SnapBanane
 *
